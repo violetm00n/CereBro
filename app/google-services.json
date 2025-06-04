@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766194954103",
+    "project_id": "webml-cedfd",
+    "storage_bucket": "webml-cedfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766194954103:android:05cb77de574b1941dffb72",
+        "android_client_info": {
+          "package_name": "com.example.dyslexiaanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCB1VrZeL8BKgB8flnTQuk32I6-pZ2cj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766194954103:android:e06dc630f7908a01dffb72",
+        "android_client_info": {
+          "package_name": "com.example.webml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCB1VrZeL8BKgB8flnTQuk32I6-pZ2cj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
